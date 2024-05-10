@@ -24,38 +24,31 @@ body{
 }
 .pinkbg{
     background-color:pink;
-    height:150px;
-    width:150px;
+    
 }
 .yellowbg{
     background-color:yellow;
-    height:150px;
-    width:150px;
+    
 }
 .blackbg{
     background-color:black;
-    height:150px;
-    width:150px;
+    
 }
 .bluebg{
     background-color:blue;
-    height:150px;
-    width:150px;
+    
 }
 .greenbg{
     background-color:green;
-    height:150px;
-    width:150px;
+    
 }
 .purplebg{
     background-color:purple;
-    height:150px;
-    width:150px;
+    
 }
 .tealbg{
     background-color:teal;
-    height:150px;
-    width:150px;
+    
 }
 .finalbtns{
     width:100px;
@@ -68,7 +61,10 @@ body{
     border-width: thick;
 }
 .empty{
+    
+    background-color:white;
+}
+#colordiv,#emptyBox{
     width:150px;
     height:150px;
-    background-color:white;
 }
