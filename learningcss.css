@@ -1,21 +1,74 @@
+body{
+    background-color:cadetblue;
+}
 .red{
     color:red;
+    
+}
+.welcome{
+    text-align:center;
+    font-family:'Lucida Sans';
+    font-size: 46px;
+    color:floralwhite;
+    background-color: lightcoral;
+}
+.btn{
+    background-color:navajowhite;
+    color:crimson;
+    font-weight:lighter;
+    font-family:fantasy;
+    
 }
 .blue{
     color:blue;
 }
 .pinkbg{
     background-color:pink;
-    height:100px;
-    width:100px;
+    height:150px;
+    width:150px;
 }
 .yellowbg{
     background-color:yellow;
-    height:100px;
-    width:100px;
+    height:150px;
+    width:150px;
 }
 .blackbg{
     background-color:black;
-    height:100px;
+    height:150px;
+    width:150px;
+}
+.bluebg{
+    background-color:blue;
+    height:150px;
+    width:150px;
+}
+.greenbg{
+    background-color:green;
+    height:150px;
+    width:150px;
+}
+.purplebg{
+    background-color:purple;
+    height:150px;
+    width:150px;
+}
+.tealbg{
+    background-color:teal;
+    height:150px;
+    width:150px;
+}
+.finalbtns{
     width:100px;
+    height:30px;
+    background-color: crimson;
+    color:burlywood;
+    font-weight: lighter;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    border-width: thick;
+}
+.empty{
+    width:150px;
+    height:150px;
+    background-color:white;
 }
